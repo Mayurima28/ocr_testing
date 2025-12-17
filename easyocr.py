@@ -49,7 +49,7 @@ def run_ocr(image_path):
 # MAIN PROGRAM
 # ---------------------------
 if __name__ == "__main__":
-    image_path = "test_image2.png"  # CHANGE THIS
+    image_path = "test_image.jpeg"  # CHANGE THIS
 
     extracted_text = run_ocr(image_path)
     print("\n---- OCR OUTPUT ----")
