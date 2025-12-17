@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # ---------------- CONFIG ----------------
-API_KEY = "AIzaSyAn5or8RDID5qFEXdVXsKx5703PpXKXM8g"
+API_KEY = "Axxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 genai.configure(api_key=API_KEY)
 
